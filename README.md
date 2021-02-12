@@ -1,0 +1,2 @@
+# EasyTranslator
+mini project
